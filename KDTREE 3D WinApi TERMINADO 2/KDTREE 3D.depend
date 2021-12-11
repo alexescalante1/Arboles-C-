@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1537164317 source:c:\users\alexescalante\desktop\kdtree 3d winapi v2 alex escalante\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537164006 c:\users\alexescalante\desktop\kdtree 3d winapi v2 alex escalante\resource.h
+
+1537164647 source:c:\users\alexescalante\desktop\kdtree 3d winapi v2 alex escalante\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537164317 source:h:\arboles winapi\kdtree 3d winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537164006 h:\arboles winapi\kdtree 3d winapi\resource.h
+
+1537164860 source:h:\arboles winapi\kdtree 3d winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537191068 source:g:\arboles winapi\kdtree 3d winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537164006 g:\arboles winapi\kdtree 3d winapi\resource.h
+
+1537191345 source:g:\arboles winapi\kdtree 3d winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537194157 source:f:\arboles winapi\kdtree 3d winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537164006 f:\arboles winapi\kdtree 3d winapi\resource.h
+
+1537194187 source:f:\arboles winapi\kdtree 3d winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537334628 source:c:\users\alexescalante\desktop\kdtree 3d winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537164006 c:\users\alexescalante\desktop\kdtree 3d winapi\resource.h
+
+1537334337 source:c:\users\alexescalante\desktop\kdtree 3d winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537742645 source:c:\users\alexescalante\desktop\kdtree 3d winapi no terminado\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537741550 c:\users\alexescalante\desktop\kdtree 3d winapi no terminado\resource.h
+
+1537741550 source:c:\users\alexescalante\desktop\kdtree 3d winapi no terminado\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1538103055 source:e:\arboles winapi\kdtree 3d winapi terminado\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537741550 e:\arboles winapi\kdtree 3d winapi terminado\resource.h
+
+1537741550 source:e:\arboles winapi\kdtree 3d winapi terminado\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1538103055 source:e:\avance semestres\00.arboles winapi\kdtree 3d winapi terminado 2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<math.h>
+
+1537741550 e:\avance semestres\00.arboles winapi\kdtree 3d winapi terminado 2\resource.h
+
+1537741550 source:e:\avance semestres\00.arboles winapi\kdtree 3d winapi terminado 2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

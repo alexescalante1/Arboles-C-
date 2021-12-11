@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1535941347 source:c:\users\alexescalante\desktop\quadtree puntos\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535940542 c:\users\alexescalante\desktop\quadtree puntos\resource.h
+
+1535941414 source:c:\users\alexescalante\desktop\quadtree puntos\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1536121937 source:h:\eda yoseph\quadtree puntos winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 h:\eda yoseph\quadtree puntos winapi\resource.h
+
+1536121337 source:h:\eda yoseph\quadtree puntos winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535983325 source:g:\eda yoseph\quadtree puntos winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 g:\eda yoseph\quadtree puntos winapi\resource.h
+
+1535982281 source:g:\eda yoseph\quadtree puntos winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1536126407 source:c:\users\alexescalante\desktop\quadtree puntos winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 c:\users\alexescalante\desktop\quadtree puntos winapi\resource.h
+
+1536126447 source:c:\users\alexescalante\desktop\quadtree puntos winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1536349854 source:h:\eda yoseph\quadtree puntos winapi v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 h:\eda yoseph\quadtree puntos winapi v2\resource.h
+
+1536126447 source:h:\eda yoseph\quadtree puntos winapi v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1536349492 source:g:\_\eda yoseph\quadtree puntos winapi v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 g:\_\eda yoseph\quadtree puntos winapi v2\resource.h
+
+1536126447 source:g:\_\eda yoseph\quadtree puntos winapi v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1536349854 source:g:\eda yoseph\quadtree puntos winapi v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 g:\eda yoseph\quadtree puntos winapi v2\resource.h
+
+1536126447 source:g:\eda yoseph\quadtree puntos winapi v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537846295 source:e:\arboles winapi\quadtree puntos terminado winapi v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 e:\arboles winapi\quadtree puntos terminado winapi v2\resource.h
+
+1536126447 source:e:\arboles winapi\quadtree puntos terminado winapi v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1536126447 source:h:\arboles winapi\quadtree puntos terminado winapi v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535981964 h:\arboles winapi\quadtree puntos terminado winapi v2\resource.h
+

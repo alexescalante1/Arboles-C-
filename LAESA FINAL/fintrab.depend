@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1563132460 source:f:\quinto semestre\eda\fintrab\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1563132460 f:\quinto semestre\eda\fintrab\resource.h
+
+1563132388 source:f:\quinto semestre\eda\fintrab\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+
+1563159007 source:c:\users\gtx 1060oc\downloads\shareit\huawei cun-u29\file\fintrab\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+
+1563158998 c:\users\gtx 1060oc\downloads\shareit\huawei cun-u29\file\fintrab\resource.h
+
+1563158998 source:c:\users\gtx 1060oc\downloads\shareit\huawei cun-u29\file\fintrab\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1563158998 source:e:\semestre 6º\fintrab\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1563158998 e:\semestre 6º\fintrab\resource.h
+
+1563162713 source:e:\semestre 6º\fintrab\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+
+1563420002 source:e:\semestre 6º\fintrab laesa\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1563411948 e:\semestre 6º\fintrab laesa\resource.h
+
+1563420560 source:e:\semestre 6º\fintrab laesa\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+
+1563427011 source:e:\semestre 6º\fintrab laesa2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1563411948 e:\semestre 6º\fintrab laesa2\resource.h
+
+1563427076 source:e:\semestre 6º\fintrab laesa2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+
+1563427076 source:e:\arboles winapi\laesa final\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	<math.h>
+	"resource.h"
+
+1563411948 e:\arboles winapi\laesa final\resource.h
+
+1563427011 source:e:\arboles winapi\laesa final\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

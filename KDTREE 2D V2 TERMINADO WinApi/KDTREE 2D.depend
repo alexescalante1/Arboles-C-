@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1537153206 source:c:\users\alexescalante\desktop\kdtree 2d winapi v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 c:\users\alexescalante\desktop\kdtree 2d winapi v2\resource.h
+
+1537153053 source:c:\users\alexescalante\desktop\kdtree 2d winapi v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537743640 source:h:\arboles winapi\kdtree 2d winapi v2 terminado winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 h:\arboles winapi\kdtree 2d winapi v2 terminado winapi\resource.h
+
+1537153335 source:h:\arboles winapi\kdtree 2d winapi v2 terminado winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537153206 source:f:\arboles winapi\kdtree 2d winapi v2 terminado winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 f:\arboles winapi\kdtree 2d winapi v2 terminado winapi\resource.h
+
+1537153335 source:f:\arboles winapi\kdtree 2d winapi v2 terminado winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1537153335 source:e:\arboles winapi\kdtree 2d winapi v2 terminado winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535981964 e:\arboles winapi\kdtree 2d winapi v2 terminado winapi\resource.h
+
+1538103501 source:e:\arboles winapi\kdtree 2d winapi v2 terminado winapi\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+

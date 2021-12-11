@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1535520308 source:f:\eda yoseph\arbol binario alex escalante\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 f:\eda yoseph\arbol binario alex escalante\resource.h
+
+1535520087 source:f:\eda yoseph\arbol binario alex escalante\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520308 source:g:\eda yoseph\arbol binario alex escalante winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 g:\eda yoseph\arbol binario alex escalante winapi\resource.h
+
+1535520087 source:g:\eda yoseph\arbol binario alex escalante winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520308 source:h:\eda yoseph\arbol binario alex escalante winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 h:\eda yoseph\arbol binario alex escalante winapi\resource.h
+
+1535520087 source:h:\eda yoseph\arbol binario alex escalante winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520308 source:e:\arboles winapi\arbol binario alex escalante winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 e:\arboles winapi\arbol binario alex escalante winapi\resource.h
+
+1535520087 source:e:\arboles winapi\arbol binario alex escalante winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535520087 source:e:\arboles winapi\arbol binario terminado winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1535518078 e:\arboles winapi\arbol binario terminado winapi\resource.h
+
+1537848358 source:e:\arboles winapi\arbol binario terminado winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1537744963 source:h:\arboles winapi\arbol binario terminado winapi\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535518078 h:\arboles winapi\arbol binario terminado winapi\resource.h
+
+1535520087 source:h:\arboles winapi\arbol binario terminado winapi\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+

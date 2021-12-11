@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1536650318 source:e:\arboles winapi\quadtree regiones winapi escalante v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 e:\arboles winapi\quadtree regiones winapi escalante v2\resource.h
+
+1536644571 source:e:\arboles winapi\quadtree regiones winapi escalante v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1536650318 source:h:\arboles winapi\quadtree regiones terminado winapi escalante v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 h:\arboles winapi\quadtree regiones terminado winapi escalante v2\resource.h
+
+1536644571 source:h:\arboles winapi\quadtree regiones terminado winapi escalante v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1544355282 source:e:\arboles winapi\quadtree regiones terminado winapi escalante v2\main.cpp
+	<iostream>
+	<windowsx.h>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1535981964 e:\arboles winapi\quadtree regiones terminado winapi escalante v2\resource.h
+
+1544352602 source:e:\arboles winapi\quadtree regiones terminado winapi escalante v2\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
